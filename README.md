@@ -77,7 +77,7 @@ The successful ping test ensures that our network infrastructure is robust and r
 
 * IP Config fro; the DC 
 
-![Hyper V](./assets/ipConfigDC.png)
+![Hyper V](./assets/IpConfigDC.png)
 
 * Ping Alice (Administrator) Client
 
