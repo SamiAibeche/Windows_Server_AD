@@ -86,5 +86,3 @@ The successful ping test ensures that our network infrastructure is robust and r
 * Ping Bob Client 
 
 ![Hyper V](./assets/PingBob.png)
-
-## Sysm
